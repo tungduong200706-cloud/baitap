@@ -1,5 +1,5 @@
 
-print("########################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 
 import math
 pos = [0, 0]
@@ -22,3 +22,4 @@ while True:
         pass
 ####################
 print(int(round(math.sqrt(pos[1] ** 2 + pos[0] ** 2))))
+
