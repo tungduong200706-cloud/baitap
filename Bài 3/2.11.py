@@ -1,5 +1,5 @@
 
-print("###############################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 
 def benefit(t, n, k):
     # Chuyển lãi suất từ phần trăm sang dạng thập phân
@@ -21,3 +21,4 @@ result = benefit(t, n, k)
 
 # In kết quả
 print(f"So tien nhan duoc sau {k} thang la: {result:.2f}")
+
