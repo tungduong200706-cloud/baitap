@@ -1,5 +1,5 @@
 
-print("##################################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 
 binary_string = input("Nhập chuỗi số nhị phân, cách nhau bởi dấu phẩy: ")
 
@@ -10,3 +10,4 @@ binary_numbers = binary_string.split(',')
 print("Các số nhị phân đã nhập:")
 for binary_number in binary_numbers:
     print(binary_number.strip())   # strip() để loại bỏ khoảng trắng dư thừa
+
