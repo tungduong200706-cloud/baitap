@@ -1,5 +1,5 @@
 
-print("###################################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 class LaMaToInteger:
     def __init__(self):
         self.roman_numerals = {
@@ -29,3 +29,4 @@ converter = LaMaToInteger()
 roman_numeral = "XIV" # Thay đổi số La Mã ở đây
 integer_value = converter.convert_to_integer(roman_numeral)
 print(f"số nguyên tương ứng với số La Mã '{roman_numeral}' là: {integer_value}")
+
