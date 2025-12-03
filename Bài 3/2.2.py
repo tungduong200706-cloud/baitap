@@ -1,7 +1,8 @@
 
-print("########################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 #chuong trinh voi ham sum
 def sum(a, b):
     return a+b
 c = sum(5, 8);
 print("Tong cua 5 va 8= " + str(c))
+
