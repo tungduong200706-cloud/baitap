@@ -1,5 +1,5 @@
 
-print("##################################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 
 input_string = input("nhap chuoi so tu tieng anh:")
 #tach chuoi thanh danh sach cac tu
@@ -11,3 +11,4 @@ sorted_words = sorted(words)
 #in danh sach cac tu da sap xep
 for word in sorted_words:
     print(word)
+
