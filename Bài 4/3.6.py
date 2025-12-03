@@ -1,5 +1,5 @@
 
-print("##################################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 
 # nhap ten nguoi tu ban phim
 ten_nguoi = input ("nhap ten nguoi:")
@@ -11,3 +11,4 @@ ten_rieng = ten_nguoi[1:]
 # In phan ho va ten rieng ra man hinh
 print("ho: "+ho)
 print("Ten rieng:"+ten_rieng)
+
