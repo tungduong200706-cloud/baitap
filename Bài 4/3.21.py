@@ -1,5 +1,5 @@
 
-print("############################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 
 def check_divisible_by_5(binary_numbers):
     divisible_by_5 = [binary for binary in binary_numbers if int(binary, 2) % 5 == 0]
@@ -24,3 +24,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
