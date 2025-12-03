@@ -1,5 +1,5 @@
 
-print("############################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 
 def generate_fibonacci(n):
     fibonacci_list = []
@@ -25,3 +25,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
