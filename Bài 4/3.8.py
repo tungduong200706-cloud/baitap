@@ -1,5 +1,5 @@
 
-print("##################################")
+print('ho ten: Dang Phan Tung Duong; MAV:245752021610119')
 # nhap day cac tu tu ban pgim, tach chung thanh danh sach
 word_list = input("nhap day cac tu, cach nhau bang dau cach: ").split()
 
@@ -12,3 +12,4 @@ if word_list:
 else:
     print("khong co tu nao trong day.")
     
+
